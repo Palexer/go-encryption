@@ -1,0 +1,17 @@
+Go Simple Encryption Program
+----------------------------
+
+This is a simple command line file encryption/decryption tool written in Go
+written for learning purposes.
+
+---
+
+Flags
+
+- -d decrypt files
+- -e encrypt files
+- -p specify a passphrase
+- -o overwrite file
+
+License: MIT
+
